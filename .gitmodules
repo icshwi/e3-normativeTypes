@@ -1,0 +1,4 @@
+[submodule "normativeTypesCPP"]
+	path = normativeTypesCPP
+	url = https://github.com/epics-base/normativeTypesCPP
+	ignore = all
